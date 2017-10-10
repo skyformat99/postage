@@ -1,4 +1,6 @@
-Postage is no longer being maintained.
+Postage is no longer being maintained
+
+# **Postage has been replaced with ["PGManage"](https://github.com/pgmanage/pgmanage)**
 
 # Postage - A fast PostgreSQL admin tool 
 
